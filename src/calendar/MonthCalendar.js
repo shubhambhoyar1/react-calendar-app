@@ -30,7 +30,7 @@ function MonthCalendar() {
   };
 
   return (
-    <div className="p-3 mb-2 bg-light text-dark">
+    <div className="p-3 mb-3 bg-light text-dark">
       <div className="p-3 mb-2 bg-info text-dark">
         <h1>
           <b>MonthCalendar</b>
